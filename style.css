@@ -1,0 +1,123 @@
+body{
+    border: 10px solid#FF8308;
+    padding: 20px;
+    margin: 20px;
+    background-color:darkcyan;
+    font-family: 'Merriweather', serif;
+
+    font-family: 'Oswald', sans-serif;
+
+
+}
+h1{
+    text-align: center;
+    color: purple;
+}
+p{
+    font-size: 30px;
+    border:4px solid saddlebrown;
+    text-align: center;
+    color:palegoldenrod;
+}
+.article p{
+        text-align: justify;
+        color:yellow;
+        
+}
+
+.header{
+    height: 100px;
+    background-color:mediumorchid;
+    border:5px solid purple;
+}
+.container{
+        overflow: hidden;
+        border: 3px solid darkorange;
+
+}
+.blog{
+    float: left;
+    width: 50%;
+     height: 100px;   
+     background-color:darkgreen;   
+}
+.contact{
+    float: right;
+    width: 50%;
+     height: 100px;   
+     background-color:firebrick; 
+}
+
+     
+
+.item{
+    height: 100px;
+    width: 33.33%;
+    float: left;
+
+}
+.aqua{
+    
+    background-color: aqua;
+}
+.chocolate{
+    
+    background-color: chocolate;
+}
+.crimson{
+    
+    background-color: crimson;
+    color: beige;
+    
+}
+
+.section{
+    height: 100px;
+    width:20% ;
+    float: left;
+    border:5px solid darkkhaki;
+    box-sizing: border-box;
+    
+}
+.para{
+    background-color: blueviolet;
+
+}
+.base{
+    background-color: red;
+    color: bisque;   
+
+}
+
+
+
+
+.heading{
+    background-color: indigo;
+
+}
+.element{
+    background-color: cornflowerblue;
+
+}
+.attribute{
+    background-color: orangered;
+    color: white;
+    
+}
+
+.footer{
+    height: 100px;
+    background-color: black;
+}
+
+div h4, h5,h6{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+
+
+
+
